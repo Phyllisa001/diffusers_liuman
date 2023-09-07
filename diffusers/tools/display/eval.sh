@@ -1,0 +1,1 @@
+sshpass -p JZIwe4VqEaALHSa ssh -p 11122 642254fc487e3a5946b72c4f-1679971580@ve-ssh-proxy.haomoai.com "cd /root/cmh/syh/LSU_Demo && python try.py > ./ip.txt && cat ip.txt"
